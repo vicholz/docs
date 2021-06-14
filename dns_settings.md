@@ -1,4 +1,4 @@
-# CloudFlare DNS Settings
+# [CloudFlare DNS](https://1.1.1.1/dns/) Settings
 
 ## General DNS Servers
 ```sh
@@ -31,7 +31,7 @@ family.cloudflare-dns.com
 1.0.0.3
 ```
 
-# AdGuard DNS Settings
+# [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) Settings
 
 ## Security/Malware Protection + Ad Blocking
 ```sh
@@ -53,7 +53,7 @@ dns-family.adguard.com
 94.140.15.16
 ```
 
-# CleanBrowsing DNS Settings
+# [CleanBrowsing](https://cleanbrowsing.org/filters/) DNS Settings (PAID)
 
 ## Security/Malware Protection
 ```sh
@@ -85,7 +85,7 @@ adult-filter-dns.cleanbrowsing.org
 185.228.169.11:853
 ```
 
-# OpenDNS DNS Settings
+# [OpenDNS DNS](https://www.opendns.com/home-internet-security/) Settings
 
 ## FamilyShield Protection
 ```sh
