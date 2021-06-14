@@ -34,4 +34,4 @@ family.cloudflare-dns.com
 ## Test Sites
 1. http://phishing.testcategory.com/
 1. http://nudity.testcategory.com/
-1. http://www.internetbadguys.com/
+1. http://www.internetbadguys.com/ (for OpenDNS)
