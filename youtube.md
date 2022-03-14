@@ -60,7 +60,7 @@
 * [Tom Scott Go](https://www.youtube.com/c/TomScottGo)
 * [Colin Furze](https://www.youtube.com/c/colinfurze)
 * [Adam Savage's Tested](https://www.youtube.com/c/tested)
-* [DIYable] https://www.youtube.com/c/DIYable)
+* [DIYable](https://www.youtube.com/c/DIYable)
 * [B is for Build](https://www.youtube.com/c/BisforBuild)
 * [Men's Craft](https://www.youtube.com/channel/UCoKiDLmS1Du8RO63zkgE2EA)
 * [Fireball Tool](https://www.youtube.com/c/FireballTool)
