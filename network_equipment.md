@@ -15,8 +15,8 @@
 2. [TP-Link ER605](https://amzn.to/36Td7zu) - Gigabit WAN.
 
 ### Controllers
-1. [TP-Link OC300](https://amzn.to/3EWgJNR) Up to 500 devices.
-2. [TP-Link OC200](https://amzn.to/3LBQoHa) Up to 100 devices.
+1. [TP-Link OC300](https://amzn.to/3EWgJNR) - Up to 500 devices.
+2. [TP-Link OC200](https://amzn.to/3LBQoHa) - Up to 100 devices.
 
 ### POE+ Switches
 1. [TP-Link TL-SG1218MP](https://amzn.to/3ETke7H) - 16 port POE+ unmanaged.
@@ -30,5 +30,5 @@
 
 #### WIFI 6
 1. [TP-Link EAP660 HD](https://amzn.to/3vLIPaw) - Ceiling.
-2. [TP-Link EAP615-Wall](https://amzn.to/3LpdqBj) Wall.
-3. [TP-Link EAP610-Outdoor](https://amzn.to/39oHtef) Outdoor.
+2. [TP-Link EAP615-Wall](https://amzn.to/3LpdqBj) - Wall.
+3. [TP-Link EAP610-Outdoor](https://amzn.to/39oHtef) - Outdoor.
