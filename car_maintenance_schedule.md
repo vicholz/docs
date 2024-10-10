@@ -22,17 +22,17 @@ This schedule provides a general guideline but should not replace specific advic
 - **Oil Change:** Change engine oil and filter.
 - **Tire Rotation:** Rotate tires for even wear.
 
-## Every 12 Months or 15,000 Miles
+## Every 12 Months or 15,000 Miles (whichever comes first)
 - **Engine Air Filter:** Inspect and replace if dirty.
 - **Cabin Air Filter:** Inspect and replace if dirty.
 - **Battery:** Check terminals for corrosion; check battery health.
 - **Belts and Hoses:** Inspect for wear, cracks, or leaks. Replace as needed.
 - **Brake Inspection:** Check brake pads, rotors, and drums.
 
-## Every 24 Months or 30,000 Miles
+## Every 24 Months or 30,000 Miles (whichever comes first)
 - **Transmission Service:** Check fluid and consider service or fluid and filter change if equiped with a filter.
 
-## Every 36 Months or 60,000 Miles
+## Every 36 Months or 60,000 Miles (whichever comes first)
 - **Major Service:**
   - **Coolant System:** Flush and replace coolant.
   - **Brake System:** Flush and replace coolant.
@@ -41,7 +41,7 @@ This schedule provides a general guideline but should not replace specific advic
   - **Fuel Filter:** Replace if not equipped with a long-life filter.
   - Major component checks (e.g., suspension, steering).
 
-## Every 60 Months or 90,000 Miles
+## Every 60 Months or 90,000 Miles (whichever comes first)
 - **Spark Plugs:** Change spark plugs.
 - **Timing Belt:** Replace.
 - **Water Pump:** Replace.
