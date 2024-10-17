@@ -37,13 +37,13 @@ This schedule provides a general guideline but should not replace specific advic
   - **Coolant System:** Flush and replace coolant.
   - **Brake System:** Flush and replace coolant.
   - **Power Steering System:** Flush and replace coolant.
-  - **Spark Plugs:** Check wear.
+  - **Spark Plugs:** Check for wear.
   - **Fuel Filter:** Replace if not equipped with a long-life filter.
   - Major component checks (e.g., suspension, steering).
 
 ## Every 60 Months or 90,000 Miles (whichever comes first)
 - **Spark Plugs:** Change spark plugs.
-- **Timing Belt:** Replace.
+- **Timing Belt:** Replace if equipped. Also replace cam and crank seals.
 - **Water Pump:** Replace.
 - **Thermostat:** Replace.
 - **Battery:** Test and replace as needed.
